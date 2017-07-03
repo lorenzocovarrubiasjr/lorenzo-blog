@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "'Computer Programming: Why There's No Going Back'"
+title:  "'Computer Programming: Why There\'s No Going Back'"
 date:   2017-06-27 21:31:47 -0400
 ---
+
 
 >>The people, places, and events that led me into the wonderful never-ending world of computer science. (Well actually not even half the people, places, and events but just a quick blog!)
 
