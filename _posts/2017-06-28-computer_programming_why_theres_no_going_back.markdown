@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "'Computer Programming: Why There's No Going Back'"
-date:   2017-06-27 21:31:47 -0400
+title:      "Computer Programming: Why There's No Going Back"
+date:       2017-06-27 21:31:47 -0400
+permalink:  computer_programming_why_theres_no_going_back
 ---
 
 
