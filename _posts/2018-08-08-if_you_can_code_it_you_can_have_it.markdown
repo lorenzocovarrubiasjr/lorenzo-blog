@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "If You Can Code It, You Can Have It"
-date:       2018-08-08 04:47:04 +0000
+date:       2018-08-08 00:47:04 -0400
 permalink:  if_you_can_code_it_you_can_have_it
 ---
 
