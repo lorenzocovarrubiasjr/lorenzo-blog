@@ -6,9 +6,8 @@ permalink:  computer_programming_why_theres_no_going_back
 ---
 
 
->>The people, places, and events that led me into the wonderful never-ending world of computer science. (Well actually not even half the people, places, and events but just a quick blog!)
-
 ![](http://i.imgur.com/TLDpHGMl.jpg?1)
+>>The people, places, and events that led me into the wonderful never-ending world of computer science. (Well actually not even half the people, places, and events but just a quick blog!)
 
 **It's summer 2016.** My wife, Imelda, and I were wrapping up our great honeymoon in Los Cabos, Mexico. It started like any other vacation, a time to ourselves (especially since it was our long awaited honeymoon!). We swam with dolphins, rode a jet ski, had a $90 dinner plate, went snorkeling in the Sea of Cortez, had unlimited virgin pina colada's on 2 dinner cruises, got sun-tanned, visited the famous Arch and most of all enjoyed each other. But each day as the sun faded, it seemed that the illusion of the "Good Life" faded with it. Well, at least the idea that the "Good Life" is the "success" of this life. As the sun dropped from the edge of the sea and the tourist disappeared, the reality of this well-known tourist town came to light (Yes in the dark!). We got to meet many locals who spent their days trying to survive, like Lazarus at the mercy of the rich man, from the leftovers and mercy of those who have a better life and more options. This led us to spend our last day praying and giving our money away to those we felt led to. The people we met were some of the most precious people we've ever met. No different than us, just born into different situations, restricted by different limitations and with fewer opportunities.
 
